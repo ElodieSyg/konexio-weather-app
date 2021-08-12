@@ -1,0 +1,18 @@
+.navbar {
+    background-color: rgb(95, 163, 186);
+    height: 3.5rem;
+}
+
+.flex-nb {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    color: white;
+    text-decoration: none;
+}
+
+.margin-left {
+    margin-left: 2rem;
+}

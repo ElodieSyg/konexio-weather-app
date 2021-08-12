@@ -1,0 +1,14 @@
+.footer {
+    background-color: rgb(95, 163, 186);
+    color: white;
+    height: 3.5rem;
+}
+
+.flex-ft {
+    display: block;
+    align-items: center;
+}
+
+.margin-left {
+    margin-left: 2rem;
+}
