@@ -1,0 +1,22 @@
+.input {
+    background-color: rgb(95, 163, 186);
+    border: 1px solid white;
+    border-radius: 999px;
+    width: 13.5rem;
+}
+
+.flex-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.margin-left-input {
+    margin-left: 0.5rem;
+}
+
+.border-none {
+    border: unset;
+    background-color: rgb(95, 163, 186);
+    color: white;
+}
