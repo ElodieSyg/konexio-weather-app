@@ -1,8 +1,15 @@
+.input-container {
+    height: 5rem;
+}
+
 .input {
     background-color: rgb(95, 163, 186);
     border: 1px solid white;
     border-radius: 999px;
-    width: 13.5rem;
+    width: 16.5rem;
+
+    display: flex;
+    align-items: center;
 }
 
 .flex-input {
@@ -19,4 +26,5 @@
     border: unset;
     background-color: rgb(95, 163, 186);
     color: white;
+    height: 2rem;
 }
